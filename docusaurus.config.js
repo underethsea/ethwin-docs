@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Primary',
-                href: 'https://ethwin.netlify.app',
+                href: 'https://steth.win',
               },
               {
                 label: 'PT Community',
