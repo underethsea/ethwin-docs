@@ -10,7 +10,7 @@ const config = {
   tagline: 'WIN WIN',
   url: 'https://ethwindocs.netlify.app/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
