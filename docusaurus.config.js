@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ETH',
   tagline: 'WIN WIN',
-  url: 'https://ethwin.netlify.app',
+  url: 'https://ethwindocs.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
