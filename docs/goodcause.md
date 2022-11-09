@@ -11,6 +11,8 @@ The weekly prize is split and 50% always goes to a good cause.
 
 The current beneficiary is GiveWell - [givewell.org/](https://www.givewell.org/)
 
+Address : [0x7cF2eBb5Ca55A8bd671A020F8BDbAF07f60F26C1](https://etherscan.io/address/0x7cF2eBb5Ca55A8bd671A020F8BDbAF07f60F26C1)
+
 Have a better idea? Let's go!
 
 ## Securing the network
