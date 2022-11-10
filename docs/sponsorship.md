@@ -7,6 +7,10 @@ sidebar_position: 11
 
 Sponsors are depositors who support the cause but are not eligible to win.  Noloss charitable sponsorship.  
 
-Want to know how to sponsor? Please contact us via Discord. 
+- Sponsor deposits stETH
+- Top sponsor/s brand awareness on front-page of app
+- Sponsors contributing passively to a good cause
+- Sponsors withdraw anytime, #noloss
 
-Sponsorship coming soon to app.
+This can be built to be programmatic, but while we get things going, if you are interested in sponsoring please contact us via Discord. 
+
