@@ -10,6 +10,6 @@ This factory contract has been up for a year and half and built the same contrac
 
 ## Audits
 
-At least three audits have been conducted on these contracts, two of which were done by Open Zeppelin.  For more information please see the official PoolTogether documentation.  [https://v3.docs.pooltogether.com/security/audits-and-testing](https://v3.docs.pooltogether.com/security/audits-and-testing)
+At least three audits have been conducted on these contracts, two of which were done by Open Zeppelin.  For more information please see the official PoolTogether documentation.  [PoolTogether V3 - Audits & Testing](https://v3.docs.pooltogether.com/security/audits-and-testing)
 
 
