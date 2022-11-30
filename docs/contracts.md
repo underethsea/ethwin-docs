@@ -18,7 +18,7 @@ ETHWIN TOKEN | [0x987a99Edba69D6F19d2dA57a4f3A3B030a714122](https://etherscan.io
 SPETHWIN TOKEN | [0xD5f60154BEf3564EbFBe9bB236595f0da548a742](https://etherscan.io/address/0xD5f60154BEf3564EbFBe9bB236595f0da548a742)
 PRIZEPOOL | [0x2758b8d894b08342f0d00ac5f9466fdc795e4618](https://etherscan.io/address/0x2758b8d894b08342f0d00ac5f9466fdc795e4618)
 PRIZESTRATEGY | [0xdef81ee763a8971283f12294e07d17df6658dbe5](https://etherscan.io/address/0xdef81ee763a8971283f12294e07d17df6658dbe5)
-
+RNG | [0x0dca49d777fd938ee476d400d0b477222bd10aa9](https://etherscan.io/address/0x0dca49d777fd938ee476d400d0b477222bd10aa9)
     
 ## GOERLI TESTNET
 Contract | Address
