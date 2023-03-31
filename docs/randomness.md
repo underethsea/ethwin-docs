@@ -5,7 +5,11 @@ sidebar_position: 12
 
 # Randomness
 
-The prize strategy uses Blockhash to get a random number while the pool is in its infancy.  The randomness has been tested can be configured to use other random number generators in the future like Chainlink or Witnet.
+The prize strategy uses Witnet as a provably fair onchain way to get a random number. 
+
+Read more about Withnet RNG here https://docs.witnet.io/smart-contracts/witnet-randomness-oracle
+
+The RNG contract https://etherscan.io/address/0x0dca49d777fd938ee476d400d0b477222bd10aa9
 
 
 
